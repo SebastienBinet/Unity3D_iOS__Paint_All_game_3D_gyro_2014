@@ -1,0 +1,2 @@
+# Unity3D_iOS__Paint_All_game_3D_gyro_2014
+I have developed this iOS game prototype In 2014. The user moves and rotate the iPad to try to direct the "Paint Spray Can" to put color on the full 3D level in a certain amount of time.     Note: This project is sometime named Friction, SebCan002 or Seb002. Note: this projet is currently at the state of a prototype, with cursors simulating the movements in the 6  DOF.

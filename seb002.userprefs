@@ -1,0 +1,20 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/SebasTestSize.cs">
+    <Files>
+      <File FileName="Assets/SebasForceTransform.cs" Line="1" Column="1" />
+      <File FileName="Assets/SebasTestSize.cs" Line="62" Column="5" />
+      <File FileName="Assets/SebasExampleBehaviourScript.cs" Line="1" Column="1" />
+      <File FileName="Assets/SebasToggleLight.cs" Line="1" Column="1" />
+      <File FileName="Assets/SebasCameraLookAt.cs" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/ZoomCamera.js" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/unitytest/Documents/seb002/seb002/Assets/SebasExampleBehaviourScript.cs" line="16" />
+      <Breakpoint file="/Users/unitytest/Documents/seb002/seb002/Assets/SebasForceTransform.cs" line="37" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
